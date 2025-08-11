@@ -33,7 +33,6 @@
 <!-- Socials -->
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://twitter.com/Mo7medXOsama"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
   <!-- Add other social media links similarly -->
   
