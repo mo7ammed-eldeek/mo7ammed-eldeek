@@ -19,7 +19,7 @@
 <p align="center"> <a href="https://twitter.com/mo7medxosama" target="blank"><img src="https://img.shields.io/twitter/follow/mo7medxosama?logo=twitter&style=for-the-badge" alt="mo7medxosama" /></a>
 </p>
 
-<p>🌐: Learning Web Development<br>👨‍💻: Mern Stack.   <br>🏫: FCAI Damietta University<br>📫: <b>contact.mo7ammed.systemd@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b></p>
+<p>🌐: Learning Web Development<br>👨‍💻: MERN Stack.   <br>🏫: FCAI Damietta University<br>📫: <b>contact.mo7ammed.systemd@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b></p>
 
 - 🔭 I’m currently working on (Meshwark)
 
