@@ -21,15 +21,9 @@
 
 <p>🌐: Learning Python<br>👨‍💻: Python Backend Dev. & Frontend Dev.   <br>🏫: FCAI Damietta University<br>📫: <b>contact.mo7ammed.systemd@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b><br>⚡ Fun fact? <b>I am Funny! ;)</b></p>
 
-- 🔭 I’m currently working on [ATM-Bank System](https://github.com/mohammed-eldeek/ATM-Bank-System)
-
-- 🌱 I’m currently learning **Python,Django,MySQL**
-
-- 💬 Ask me about **Python**
+- 🔭 I’m currently working on (Meshwark)
 
 - 📫 How to reach me **contact.mo7ammed.systemd@gmail.com**
-
-- ⚡ Fun fact **I Think I am Funny :)**
 
 <h3 align="left">Competitive Programming :</h3>
 
