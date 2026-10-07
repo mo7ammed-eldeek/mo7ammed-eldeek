@@ -16,24 +16,16 @@
 <!-- About Me -->
 # 💫 About Me: 
 
-<p align="center"> <a href="https://twitter.com/mo7medxosama" target="blank"><img src="https://img.shields.io/twitter/follow/mo7medxosama?logo=twitter&style=for-the-badge" alt="mo7medxosama" /></a>
-</p>
-
-<p>🌐: Learning...<br>🏫: FCAI Damietta University<br>📫: <b>contact.mo7ammed.systemd@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b></p>
-
-- 🔭 I’m currently working on (Meshwark)
-
+- Follow and Lets contribute
 - 📫 How to reach me **contact.mo7ammed.systemd@gmail.com**
 
-<h3 align="left">Competitive Programming :</h3>
 
-<a href="https://codeforces.com/profile/memoxico" target="blank">codeforces<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="memoxico" height="20" width="20" /></a>
 
 
 <!-- Socials -->
 ## 🌐 Socials:
 <p align="center">
-
+### we are cooking LinkedIn Profile ... 
   <!-- Add other social media links similarly -->
   
 </p>
