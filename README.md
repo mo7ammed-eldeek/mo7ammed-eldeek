@@ -33,7 +33,7 @@
 <!-- Socials -->
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+
   <!-- Add other social media links similarly -->
   
 </p>
@@ -41,17 +41,17 @@
     <div style="flex: 1; text-align: center;">
         <h2>📊 GitHub Stats:</h2>
         <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-eldeek&theme=transparent&hide_border=true" alt="GitHub Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=mo7ammed-eldeek&theme=transparent&hide_border=true" alt="GitHub Streak" />
         </a>
     </div>
 
 <div style="flex: 1; text-align: center;">
-	<img src="https://github-readme-stats.vercel.app/api?username=mohammed-eldeek&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's GitHub Stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=mo7ammed-eldeek&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's GitHub Stats">
 </div>
 
 <div style="flex: 1; text-align: center;">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-eldeek&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&size_weight=1&count_weight=0" alt="Top Languages">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7ammed-eldeek&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&size_weight=1&count_weight=0" alt="Top Languages">
 	</a>
 </div>
 </div>
